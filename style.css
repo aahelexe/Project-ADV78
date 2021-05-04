@@ -1,0 +1,9 @@
+body {
+    text-decoration-color: black;
+    text-align: center;
+}
+img {
+    border-style:solid;
+    padding: 5px;
+    border-color:black;
+  }
